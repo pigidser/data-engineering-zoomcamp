@@ -16,3 +16,13 @@
 
 # Setup Airflow Environment
 
+
+
+# How to connect to working container
+
+```bash
+# Get container id
+docker ps
+# Connect with bash
+docker exec -it [Container ID] bash
+```
