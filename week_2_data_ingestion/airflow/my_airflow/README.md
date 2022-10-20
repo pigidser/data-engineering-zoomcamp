@@ -1,4 +1,4 @@
-# This folder contains my attempt to set up Airflow environment with Docker.
+# This folder contains my set up Airflow environment with Docker.
 
 Download template:
 
